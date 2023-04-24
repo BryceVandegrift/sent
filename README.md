@@ -8,6 +8,7 @@ My personal build of suckless sent with a few patches.
 
 - Invert colors with `-i`
 - Toggle invert colors during presentation by pressing `i`
+- Convert slideshow into PDF by pressing `g`
 - More command line options
 
 ## Install
